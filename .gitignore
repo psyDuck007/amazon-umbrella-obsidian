@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# Obsidian local UI state and plugin bundles
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/
+
+# Local AI/editor tool state
+.claude/
+.claudian/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+~$*
+
+# Secrets and local environment files
+.env
+.env.*
+*.pem
+*.key
+*secret*
+*token*
