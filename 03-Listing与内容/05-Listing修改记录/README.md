@@ -25,6 +25,13 @@
 - 9x12/10x13 的不带底座版本如果图片使用重型底座，必须标清 sold separately。
 - 10x13 带底座页面有 coupon，可纳入价格促销复盘。
 
+## 2026-07-02 全变体 Navy 标题与 Product Highlights
+
+- [[03-Listing与内容/05-Listing修改记录/2026-07-02-全变体Navy标题与Highlights最终建议]]
+- 范围：9x9、9x12、10x13；带底座 / 不带底座；Navy 颜色标题和 Product Highlights。
+- 状态：最终建议标题 / 待上线验证。
+- 重点规则：标题保留品牌、尺寸、品类词、灯光和底座版本；`2-tier`、`aluminum`、`360 rotation`、场景词由 Product Highlights 承接。
+
 ## 待确认
 
 - SKU 和颜色 ASIN 映射。

@@ -119,6 +119,33 @@
 - 风险边界：短标题必须保留品牌、尺寸、Solar LED、核心品类词和底座版本；`Heavy Duty`、`2-Tier`、`Aluminum`、`360-Degree Rotation`、场景词迁移到 Item Highlights、五点或后台词；不带底座版本不得写 `with Base`。
 - 待补数据：新标题上线后的 CTR、CVR、自然排名、广告搜索词变化，以及 Amazon 后台 Item Highlights 实际字段限制和展示效果。
 
+## [2026-07-02] 售后客服 / 待验证观点 | 客服风速阈值 20 mph 候选口径
+
+- 输入来源：用户补充客服回复口径：“风力不大于 20，大于 20 要收起来”。
+- 写入页面：
+  - [[07-售后客服与合规/01-常见问题处理/UV与防风等级咨询]]
+  - [[12-收集箱与附件/04-待验证观点]]
+  - [[13-LLM-Wiki工作台/wiki/问题队列/待补证据清单]]
+- 更新索引：无。
+- 状态：待确认客服口径 / 待验证观点。
+- 风险边界：`20` 的单位、适用型号和证据未确认，暂按 `20 mph` 候选阈值记录；不得写成官方 `wind rating`、认证、测试结果、Listing 承诺或持续抗风能力。
+- 待补数据：单位确认、适用型号、说明书或供应商依据、与 `12-15 mph` Review 阈值和蒲福 `6` 级 / `24-30 mph` 测试口径的关系。
+
+## [2026-07-02] Listing 修改建议 | 全变体 Navy 标题与 Product Highlights 最终建议
+
+- 输入来源：用户提供 9x9、9x12、10x13 带底座 / 不带底座共 6 个 Navy 版本标题对比表，并明确采用最终建议标题和 Product Highlights。
+- 写入页面：
+  - [[03-Listing与内容/05-Listing修改记录/2026-07-02-全变体Navy标题与Highlights最终建议]]
+  - [[03-Listing与内容/01-标题/9x9标题]]
+  - [[03-Listing与内容/01-标题/9x12标题]]
+  - [[03-Listing与内容/01-标题/10x13标题]]
+  - [[03-Listing与内容/05-Listing修改记录/README]]
+- 更新索引：
+  - [[13-LLM-Wiki工作台/index]]
+- 状态：Listing 修改建议 / 待上线验证。
+- 风险边界：6 个标题均未超过 `75` 字符；不带底座版本必须继续在 Highlights、五点、图片或详情页说明 `Base sold separately`；Product Highlights 中的 `2-tier aluminum canopy/frame`、`360 rotation`、场景词不得扩展为防风、认证或耐候承诺。
+- 待补数据：上线后 `7-14` 天 CTR、CVR、自然排名、广告搜索词变化，以及 Amazon Product Highlights / Item Highlights 实际展示效果。
+
 ## [2026-06-11] 架构 | 建立 LLM-Wiki 工作台
 
 - 输入来源：用户要求按照 Karpathy 方法论重构亚马逊罗马伞知识库。
