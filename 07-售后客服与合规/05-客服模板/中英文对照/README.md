@@ -13,7 +13,7 @@
 | 为了确认问题，请发照片 | To help us check this accurately, could you please send us 2-3 photos showing the issue and the package label? |
 | 大件商品可能分箱发货 | This patio umbrella and base may be shipped in separate packages because of their size and weight. |
 | 另一箱仍在运输 | The other package is still in transit. |
-| 退款通常 3-7 个工作日到账 | Once the refund is issued, it usually takes 3-7 business days to return to the original payment method. |
+| 退款将按 Amazon 流程退回原付款方式 | Once the refund is processed through Amazon, it will be returned to the original payment method according to Amazon's processing timeline. |
 | 为遵守平台规则，不电话联系 | To follow Amazon communication guidelines and keep a complete written record, we will continue assisting you through Amazon messages. |
 | 退回底座前不要加水或沙 | Please do not fill the base with water or sand before returning it. |
 | 起风时需要收伞 | Please close the umbrella during windy conditions. |
